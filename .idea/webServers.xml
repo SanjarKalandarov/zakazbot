@@ -2,10 +2,10 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0cfb949d-d2f3-4a11-b9d9-03b08ceeae88" name="test" url="http://ftpupload.net">
+      <webServer id="5ae1c681-e3d8-4fa7-aede-e2de146c98ff" name="first" url="http://ftpupload.net">
         <fileTransfer host="ftpupload.net" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

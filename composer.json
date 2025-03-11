@@ -1,0 +1,15 @@
+{
+    "name": "sanjarkalandarov/bot",
+    "autoload": {
+        "psr-4": {
+            "Sanjarkalandarov\\Bot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SanjarKalandarov",
+            "email": "sanjarkalandarov4@gmail.com"
+        }
+    ],
+    "require": {}
+}
